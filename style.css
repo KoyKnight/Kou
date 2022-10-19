@@ -110,3 +110,41 @@
 .about_me-text:last-child{
   margin-bottom: 0;
 }
+.skills{
+  padding-top: 91px;
+  padding-bottom: 110px;
+}
+.skills__tittle{
+  font-size: 34px;
+  line-height: 42px;
+  text-align: center;
+}
+.skills__suptittle{
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  margin: 0;
+  margin-top: 69px;
+  margin-bottom: 83px;
+}
+.card-container{
+  display: flex;
+  justify-content: space-between;
+  max-width: 940px;
+  margin: auto;
+}
+.skills__card-image{}
+.skills__card-tittle{
+  color: #828282;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+}
+.skills__card-stars{}
+.skills__card{
+  width: 166.46px;
+  height: 206.29px;
+  left: 255.71px;
+  top: 1566.65px;
+  border: rgb(0, 0, 0) solid 2px;
+}
